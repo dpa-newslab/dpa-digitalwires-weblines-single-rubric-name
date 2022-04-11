@@ -1,4 +1,4 @@
-# digitalwires: Choosing a single rubric_name
+# dpa-digitalwires: Choosing a single rubric_name
 
 
 dpa editors often choose a list of `rubric_names` for their articles, in order to represent better what a story is about. 
