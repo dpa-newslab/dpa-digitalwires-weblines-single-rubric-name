@@ -1,7 +1,7 @@
 # Multiple rubric_names in dpa's weblines - the ground truth
 
 Sample: ca. 46.000 articles, published in February 2022 and March 2022, spanning around 10.000 different URNs. 
-arount 620 of the URNs that are represented several times in the sample carry non-unique combinations 
+around 620 of the URNs that are represented several times in the sample carry non-unique combinations 
 of rubric_names.
 
 ## How often do articles carry multiple `rubric_names`?
