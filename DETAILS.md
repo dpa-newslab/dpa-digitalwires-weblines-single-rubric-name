@@ -33,7 +33,7 @@ weblines.regiolinegeo.berlinbrandenburg, weblines.regiolinegeo.mecklenburgvorpom
 
 ## How the sample got classified
 
-If you want to inspect the result of our test more closely, please help yourself to the raw data in `urn_rubric_single_rubric.json` (drop_starline = True) and `urn_rubric_single_rubric_starline.json` (drop_starline = False) included in this gist.
+If you want to inspect the result of our test more closely, please help yourself to the raw data in `urn_rubric_single_rubric.json` (drop_starline = True) and `urn_rubric_single_rubric_starline.json` (drop_starline = False) included in this repo.
 
 Below you see the list of `rubric_names` that remained after applying `dpa_rubric_name_heuristics.py` to our sample data with the flag `drop_starline` set to true.
 
